@@ -3,8 +3,8 @@ title: Voice Clone Detector
 emoji: 🛡️
 colorFrom: indigo
 colorTo: pink
-sdk: docker
-app_port: 7860
+sdk: streamlit
+app_file: app.py
 pinned: false
 ---
 

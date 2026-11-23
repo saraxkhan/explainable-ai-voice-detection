@@ -1,0 +1,9 @@
+streamlit>=1.39
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+torch
+transformers
+faster-whisper

@@ -44,8 +44,8 @@ def files(pattern_dir):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", default="data")
-    ap.add_argument("--model", default="MelodyMachine/Deepfake-audio-detection")
-    ap.add_argument("--fake-label", default=None)
+    ap.add_argument("--model", default="motheecreator/Deepfake-audio-detection")
+    ap.add_argument("--fake-label", default="fake")
     ap.add_argument("--max-seconds", type=int, default=20)
     a = ap.parse_args()
 

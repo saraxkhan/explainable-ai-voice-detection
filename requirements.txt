@@ -4,6 +4,7 @@ scipy
 librosa
 soundfile
 matplotlib
+pandas
 torch
 transformers
 faster-whisper

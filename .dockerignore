@@ -1,0 +1,11 @@
+.venv
+__pycache__
+data
+demo_clips
+results.csv
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.zip
+.git

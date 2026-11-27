@@ -10,4 +10,4 @@ pinned: false
 
 # Explainable AI Voice-Clone Detector 
 Detects likely cloned voices, shows where and why, checks for scam phrases, and gives safe advice.
-Audio is processed in memory and not stored. Prototype for a college mini-project.
+Audio is processed in memory and not stored. 
